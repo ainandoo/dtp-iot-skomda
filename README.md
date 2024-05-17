@@ -1,3 +1,3 @@
-# Skomda IoT
+# DTP IoT Skomda
 
-Skomda IoT (Internet of Things) merupakan salah satu bidang dari sembilan bidang yang ada pada program Digital Talent Program SMK Telkom Sidoarjo.
+Digital Talent Program: Internet of Things (DTP-IoT) merupakan salah satu bidang dari sembilan bidang yang ada pada program Digital Talent Program SMK Telkom Sidoarjo. Kelas DTP IoT ini diisi oleh mentor Ainan.
