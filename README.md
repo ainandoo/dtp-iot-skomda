@@ -4,4 +4,4 @@
 
 Merupakan salah satu bidang dari sembilan bidang DTP yang ada di SMK Telkom Sidoarjo. 
 
-Kelas DTP IoT ini diisi oleh mentor: [@ainandoo](ainandoo.github.io)
+Kelas DTP IoT ini diisi oleh mentor: [@ainandoo](https://ainandoo.github.io)
